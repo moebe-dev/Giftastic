@@ -1,2 +1,0 @@
-# Giftastic
-Giftastic - Giphy API 

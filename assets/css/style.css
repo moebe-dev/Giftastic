@@ -1,0 +1,46 @@
+html {
+	position: relative;
+	min-height: 100%;
+}
+
+body {
+	background-color: blanchedalmond;
+}
+
+#wrap {}
+
+#title {
+	color: coral;
+	text-align: center;
+	padding-top: 16px;
+}
+
+#buttonArea {
+	margin-top: 10px;
+}
+
+iframe {
+	margin-right: 123px;
+}
+
+.btn {
+	margin: 5px;
+}
+
+#gifArea {
+	margin-top: 20px;
+}
+
+.submit {
+	background-color: burlywood;
+	color: chocolate;
+	border: 1px solid gray;
+}
+
+.credits {
+	font-size: .8em;
+}
+
+.clear {
+	clear: both;
+}
