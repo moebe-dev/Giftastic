@@ -4,10 +4,8 @@ html {
 }
 
 body {
-	background-color: blanchedalmond;
+	background-color: gray;
 }
-
-#wrap {}
 
 #title {
 	color: coral;
@@ -19,10 +17,6 @@ body {
 	margin-top: 10px;
 }
 
-iframe {
-	margin-right: 123px;
-}
-
 .btn {
 	margin: 5px;
 }
@@ -32,9 +26,9 @@ iframe {
 }
 
 .submit {
-	background-color: burlywood;
-	color: chocolate;
-	border: 1px solid gray;
+	background-color: coral;
+	color: black;
+	border: 25px solid gray;
 }
 
 .credits {
