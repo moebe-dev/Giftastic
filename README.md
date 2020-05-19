@@ -15,7 +15,7 @@ along with rating and title information.
 * User can add additional Superhero button by providing input in the form, the application will alert the user if he/she inputs an existing superhero.
 * User can delete a Superhero button by double-clicking a button.
 
-![Screen shot](images\GIFscreenshot.png)
+![Screen shot](images/GIFscreenshot.png)
 
 
 ## Technologies Used
