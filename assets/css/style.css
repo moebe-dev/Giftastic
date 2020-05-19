@@ -1,40 +1,47 @@
-html {
-	position: relative;
-	min-height: 100%;
-}
-
 body {
-	background-color: gray;
+    background-color: royalblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
 }
 
-#title {
-	color: coral;
-	text-align: center;
-	padding-top: 16px;
+.topic {
+    margin: 10px;
 }
 
-#buttonArea {
-	margin-top: 10px;
+.buttons-view {
+    border-radius: 25px;
+    border: 2px solid wheat;
+    padding: 10px;
 }
 
-.btn {
-	margin: 5px;
+h2 {
+    letter-spacing: 5px;
+    text-align: center;
+    color: whitesmoke;
 }
 
-#gifArea {
-	margin-top: 20px;
+h6 {
+    font-style: oblique;
+    color: rgb(240, 255, 244);
 }
 
-.submit {
-	background-color: coral;
-	color: black;
-	border: 25px solid gray;
+.topic {
+    font-size: 16px;
+    font-weight: lighter;
 }
 
-.credits {
-	font-size: .8em;
+.hero-name {
+    margin: 20px;
+    float: left;
 }
 
-.clear {
-	clear: both;
+p {
+    color: papayawhip;
+    margin-top: 20px;
+    line-height: 16px;
+}
+
+img {
+    border-radius: 20px;
+    margin-top: 2px;
 }
